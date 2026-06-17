@@ -15,3 +15,6 @@ python Face_detection.py
 
 ## Author
 Palak Singh
+
+## Output
+![Face Detection Output] (face-detection_output.png)

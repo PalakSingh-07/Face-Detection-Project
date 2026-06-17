@@ -10,6 +10,11 @@ A face detection application built using Python and OpenCV.
 ## Requirements
 pip install opencv-python
 
+## Technologies Used
+- Python
+- OpenCV
+- Haar Cascade Classifier
+
 ## Run
 python Face_detection.py
 

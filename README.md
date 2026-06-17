@@ -1,11 +1,17 @@
 # Face Detection using Python
 
-This project detects faces using OpenCV and Python.
+A face detection application built using Python and OpenCV.
+
+## Features
+- Detects human faces from webcam input
+- Uses OpenCV Haar Cascade classifier
+- Real-time face detection
 
 ## Requirements
-- Python
-- OpenCV
+pip install opencv-python
 
-## How to Run
-
+## Run
 python Face_detection.py
+
+## Author
+Palak Singh
